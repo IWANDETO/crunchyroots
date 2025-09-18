@@ -10,25 +10,25 @@ const productCategories = [
     id: "nuts",
     name: "Premium Nuts",
     description: "Roasted and seasoned nuts packed with protein and healthy fats",
-    image: "/premium-nuts-collection.png",
+    image: "/snacks.png",
     products: [
       {
-        name: "Honey Roasted Cashews",
-        description: "Creamy cashews lightly roasted with natural honey",
+        name: "Sweet-Potato Crackies",
+        description: "Crunchy sweet-potato crackies",
         benefits: ["High Protein", "Heart Healthy", "Natural Sweetener"],
-        image: "/honey-cashews.png",
+        image: "/img2.jpeg",
       },
       {
         name: "Spiced Peanuts",
         description: "Crunchy peanuts with a blend of traditional Kenyan spices",
         benefits: ["High Protein", "Energy Boost", "Local Spices"],
-        image: "/spiced-peanuts.png",
+        image: "/img1.jpeg",
       },
       {
         name: "Mixed Nuts Deluxe",
         description: "Premium mix of cashews, almonds, and macadamia nuts",
         benefits: ["Omega-3", "Antioxidants", "Premium Quality"],
-        image: "/mixed-nuts.png",
+        image: "/img3.jpg",
       },
     ],
   },
@@ -297,7 +297,7 @@ export default function ProductsPage() {
           </div>
 
           <div className="border-t border-background/20 mt-8 pt-8 text-center">
-            <p className="text-background/60">© 2024 Crunchy Roots. All rights reserved.</p>
+            <p className="text-background/60">© 2025 Crunchy Roots. All rights reserved.</p>
           </div>
         </div>
       </footer>

@@ -80,7 +80,7 @@ export default function ContactPage() {
             <div className="relative">
               <div className="aspect-[4/3] rounded-2xl overflow-hidden bg-gradient-to-br from-primary/10 to-secondary/10 flex items-center justify-center">
                 <img
-                  src="/crunchy-roots-story.png"
+                  src="/snacks.png"
                   alt="Crunchy Roots company story and mission"
                   className="w-full h-full object-cover"
                 />
@@ -135,7 +135,7 @@ export default function ContactPage() {
                   </div>
                   <div className="space-y-1">
                     <h3 className="font-serif font-bold text-lg">Phone</h3>
-                    <p className="text-muted-foreground">+254 700 000 100</p>
+                    <p className="text-muted-foreground">+254 757 588 016</p>
                     <p className="text-sm text-muted-foreground">Monday - Friday, 8:00 AM - 6:00 PM</p>
                   </div>
                 </div>
@@ -335,7 +335,7 @@ export default function ContactPage() {
           </div>
 
           <div className="border-t border-background/20 mt-8 pt-8 text-center">
-            <p className="text-background/60">© 2024 Crunchy Roots. All rights reserved.</p>
+            <p className="text-background/60">© 2025 Crunchy Roots. All rights reserved.</p>
           </div>
         </div>
       </footer>

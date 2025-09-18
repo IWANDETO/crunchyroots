@@ -15,7 +15,7 @@ const storeLocations = [
     hours: "Mon-Sun: 7:00 AM - 9:00 PM",
     region: "Kiambu County",
     description: "Full range of Crunchy Roots products available",
-    image: "/leester-kihunguro-store.png",
+    image: "/market.png",
   },
   {
     id: "leester-kinoo",
@@ -26,7 +26,7 @@ const storeLocations = [
     hours: "Mon-Sun: 7:00 AM - 9:00 PM",
     region: "Kiambu County",
     description: "Complete selection of healthy snacks and trail mixes",
-    image: "/leester-kinoo-store.png",
+    image: "/market.png",
   },
   {
     id: "juja-ecomart",
@@ -37,7 +37,7 @@ const storeLocations = [
     hours: "Mon-Sun: 6:30 AM - 10:00 PM",
     region: "Kiambu County",
     description: "Eco-friendly store with premium natural snacks",
-    image: "/juja-ecomart-store.png",
+    image: "/market.png",
   },
   {
     id: "juja-uniquemart",
@@ -48,7 +48,7 @@ const storeLocations = [
     hours: "Mon-Sun: 7:00 AM - 9:30 PM",
     region: "Kiambu County",
     description: "Unique selection of healthy snacks and dried fruits",
-    image: "/juja-uniquemart-store.png",
+    image: "/market.png",
   },
   {
     id: "thika-homeways",
@@ -59,7 +59,7 @@ const storeLocations = [
     hours: "Mon-Sun: 7:00 AM - 9:00 PM",
     region: "Kiambu County",
     description: "Family-friendly store with nutritious snack options",
-    image: "/thika-homeways-store.png",
+    image: "/market.png",
   },
   {
     id: "kenyatta-homeways",
@@ -70,7 +70,7 @@ const storeLocations = [
     hours: "Mon-Sun: 7:00 AM - 10:00 PM",
     region: "Nairobi County",
     description: "Convenient city location with full product range",
-    image: "/kenyatta-homeways-store.png",
+    image: "/market.png",
   },
 ]
 
@@ -289,7 +289,7 @@ export default function StoresPage() {
           </div>
 
           <div className="border-t border-background/20 mt-8 pt-8 text-center">
-            <p className="text-background/60">© 2024 Crunchy Roots. All rights reserved.</p>
+            <p className="text-background/60">© 2025 Crunchy Roots. All rights reserved.</p>
           </div>
         </div>
       </footer>

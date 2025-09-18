@@ -366,7 +366,7 @@ export default function PartnersPage() {
           </div>
 
           <div className="border-t border-background/20 mt-8 pt-8 text-center">
-            <p className="text-background/60">© 2024 Crunchy Roots. All rights reserved.</p>
+            <p className="text-background/60">© 2025 Crunchy Roots. All rights reserved.</p>
           </div>
         </div>
       </footer>

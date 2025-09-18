@@ -44,7 +44,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-primary/10 to-secondary/10 flex items-center justify-center">
                 <img
-                  src="/healthy-snacks-display.png"
+                  src="/snacks.png"
                   alt="Crunchy Roots healthy snacks assortment"
                   className="w-full h-full object-cover"
                 />
@@ -151,7 +151,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="aspect-[4/3] rounded-2xl overflow-hidden bg-gradient-to-br from-secondary/10 to-primary/10 flex items-center justify-center">
                 <img
-                  src="/kenyan-supermarket-snacks.png"
+                  src="/market.png"
                   alt="Crunchy Roots products in store"
                   className="w-full h-full object-cover"
                 />
@@ -205,7 +205,7 @@ export default function HomePage() {
           </div>
 
           <div className="border-t border-background/20 mt-8 pt-8 text-center">
-            <p className="text-background/60">© 2024 Crunchy Roots. All rights reserved.</p>
+            <p className="text-background/60">© 2025 Crunchy Roots. All rights reserved.</p>
           </div>
         </div>
       </footer>
